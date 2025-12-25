@@ -25,7 +25,7 @@
 
 ## About Me
 - 🔭 Currently working on personal .NET projects
-- 🌱 Learning advanced ASP.NET Core and frontend technologies
+- 🌱 Learning advanced ASP.NET Core technologies
 - 👯 Open to collaboration on open-source or small projects
 - ⚡ Fun fact: I love optimizing code and building clean user interfaces
 
