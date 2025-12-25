@@ -47,7 +47,7 @@
 ## Entity Framework Core Skills
 - Proficient in Entity Framework Core with Code-First and Database-First approaches
 - Experienced in designing and implementing efficient data models, relationships (one-to-many, many-to-many), and inheritance strategies
-- Skilled in写 complex LINQ queries, eager/lazy loading, and query optimization for performance
+- Skilled in complex LINQ queries, eager/lazy loading, and query optimization for performance
 - Adept at migrations, seeding data, and handling concurrency with concurrency tokens
 - Familiar with advanced features like owned entities, shadow properties, global query filters, and raw SQL queries
 
