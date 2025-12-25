@@ -17,7 +17,7 @@
   </p>
 
   <p>
-    <strong>Strong Expertise In:</strong> C# • OOP • Entity Framework Core • WPF • ASP.NET Core Web API • GitHub Workflows • SQL
+    <strong>Strong Expertise In:</strong> C# • OOP • Entity Framework Core • WPF • ASP.NET Core Web API • SQL • GitHub Workflows 
   </p>
  
   <p><strong>Contact:</strong> dvhoan28@gmail.com</p>
