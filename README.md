@@ -30,45 +30,45 @@
 - ⚡ Fun fact: I love optimizing code and building clean user interfaces
 
 ## C# Skills
-- Proficient in modern C# (versions 8.0–12.0) with async/await, LINQ, generics, and nullable reference types
+- Proficient in modern C# with async/await, LINQ, generics and nullable reference types
 - Experienced in writing clean, maintainable, and performant code following SOLID principles
-- Skilled in building console, desktop (WPF/WinForms), and web applications using C#
-- Adept at debugging, refactoring, and optimizing existing C# codebases
-- Familiar with advanced features like pattern matching, records, source generators, and extension methods
+- Skilled in building console, desktop (WPF/WinForms) and web applications using C#
+- Adept at debugging, refactoring and optimizing existing C# codebases
+- Familiar with advanced features like pattern matching, records, source generators and extension methods
 
 ## OOP Skills
-- Strong understanding of core OOP principles: Encapsulation, Inheritance, Polymorphism, and Abstraction
-- Experienced in applying design patterns such as Singleton, Factory, Observer, Repository, and Dependency Injection
-- Skilled in designing class hierarchies, interfaces, and abstract classes for reusable and extensible code
+- Strong understanding of core OOP principles: Encapsulation, Inheritance, Polymorphism and Abstraction
+- Experienced in applying design patterns such as Singleton, Factory, Observer, Repository and Dependency Injection
+- Skilled in designing class hierarchies, interfaces and abstract classes for reusable and extensible code
 - Proficient in using inheritance and composition effectively to build flexible systems
-- Adept at implementing polymorphism through method overriding, interfaces, and generic constraints
+- Adept at implementing polymorphism through method overriding, interfaces and generic constraints
 
 ## Entity Framework Core Skills
 - Proficient in Entity Framework Core with Code-First and Database-First approaches
-- Experienced in designing and implementing efficient data models, relationships (one-to-many, many-to-many), and inheritance strategies
-- Skilled in complex LINQ queries, eager/lazy loading, and query optimization for performance
-- Adept at migrations, seeding data, and handling concurrency with concurrency tokens
-- Familiar with advanced features like owned entities, shadow properties, global query filters, and raw SQL queries
+- Experienced in designing and implementing efficient data models, relationships (one-to-many, many-to-many) and inheritance strategies
+- Skilled in complex LINQ queries, eager/lazy loading and query optimization for performance
+- Adept at migrations, seeding data and handling concurrency with concurrency tokens
+- Familiar with advanced features like owned entities, shadow properties, global query filters and raw SQL queries
 
 ## WPF Skills
 - Proficient in building modern desktop applications using WPF with XAML and MVVM architecture
-- Experienced in designing responsive and visually appealing UIs with styles, templates, triggers, and animations
+- Experienced in designing responsive and visually appealing UIs with styles, templates, triggers and animations
 - Skilled in data binding, commands, behaviors, and dependency properties for clean separation of concerns
 - Adept at integrating Entity Framework Core for data access and implementing navigation between views
-- Familiar with advanced controls (DataGrid, TreeView), custom controls, resource dictionaries, and themes
+- Familiar with advanced controls (DataGrid, TreeView), custom controls, resource dictionaries and themes
 
 ## ASP.NET Core Web API Skills
 - Proficient in building RESTful APIs using ASP.NET Core Web API with minimal APIs and controllers
-- Experienced in implementing dependency injection, middleware, routing, and model binding
-- Skilled in authentication and authorization (JWT, Identity, OAuth) and securing APIs
-- Adept at integrating Entity Framework Core for data access and creating efficient CRUD operations
-- Familiar with advanced features like versioning, Swagger/OpenAPI documentation, rate limiting, and background services
+- Experienced in implementing dependency injection, middleware, routing and model binding
+- Skilled in authentication and authorization (JWT, Identity) and securing APIs
+- Adept at integrating Entity Framework Core for data access 
+- Familiar with advanced features like versioning, Swagger/OpenAPI documentation, rate limiting and background services
 
 ## GitHub Skills
 - Proficient in GitHub for project management and team collaboration
-- Experienced in managing repositories, issues, pull requests, and code reviews
+- Experienced in managing repositories, issues, pull requests and code reviews
 - Skilled in GitHub Projects (boards and milestones) for task tracking
 - Familiar with branching strategies (e.g., Git Flow) and merge conflict resolution
-- Adept at collaborating with teams via branch protection, permissions, and review workflows
+- Adept at collaborating with teams via branch protection, permissions and review workflows
 
 **Thank you for visiting my page!** 😊
